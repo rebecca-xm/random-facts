@@ -1,0 +1,11 @@
+## create un nuovo progetto CRA nel quale sviluppare un component che renderizza dei random facts
+
+## l’API da cui leggere i dati è https://uselessfacts.jsph.pl/random.json?language=en (siete liberi di giocare con i parametri)
+
+## il componente dovrà renderizzare ogni elemento con testo e link
+
+## all’avvio del componente sarà caricato un singolo elemento dalle API
+
+## ci saranno due pulsanti “aggiungi” e “reset”, il primo permetterà di caricare un nuovo elemento dalle API e di disegnarlo sopra a quello esistente (quindi ogni volta che si preme il pulsante si aggiunge un nuovo elemento che renderà la pagina sempre più lunga) il secondo pulsante cancella tutti i dati presenti nello stato locale permettendo di ricomicniare da capo
+
+## lo stato locale deve essere gestito con useReducer
