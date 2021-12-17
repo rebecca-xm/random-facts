@@ -1,6 +1,7 @@
 {
   "name": "random-facts",
   "version": "0.1.0",
+  "homepage": "http://rebecca-xm.github.io/random-facts/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
